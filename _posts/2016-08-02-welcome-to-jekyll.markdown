@@ -7,7 +7,7 @@ categories: general meta
 
 # Test Post please ignore
 
-This is a test post that I’m using when setting up the site.
+Does this update automatically? 
 
 An h1 header
 ============
