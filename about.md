@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Erik Jonasson is a web developer who has worked on sites for private businesses as well as not-for-profit agencies. He's been a WordPress user for nearly 10 years, and has several years of experience as a web developer and programmer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In his personal life, Erik is an avid PC gamer and Sci-Fi/Fantasy nerd. He currently lives in Gainesville, FL with his wife and dog.

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  “Hello world!”
+title:  Test Post
 date:   2016-08-02 18:07:16 -0400
 categories: general meta
 ---
 
 # Test Post please ignore
 
-Does this update automatically? 
+Does this update automatically?
 
 An h1 header
 ============
@@ -26,7 +26,7 @@ content starts at 4-columns in.
 
 > Block quotes are
 > written like so.
-> 
+>
 > They can span multiple paragraphs,
 > if you like.
 
@@ -37,7 +37,7 @@ Unicode is supported. ☺
 
 
 An h2 header
----- --------
+----
 
 Here's a numbered list:
 
@@ -54,27 +54,27 @@ for i in 1 .. 10 { do-something(i) }
 As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:
 
-~
+\~
 define foobar() {
 print "Welcome to flavor country!";
 }
-~
+\~
 
 (which makes copying & pasting easier). You can optionally mark the
 delimited block for Pandoc to syntax highlight it:
 
-~python
+\~python
 import time
 # Quick, count to ten!
 for i in range(10):
 # (but not *too* quick)
 time.sleep(0.5)
 print i
-~
+\~
 
 
 
-### An h3 header ##\#
+### An h3 header #\#\#
 
 Now a nested list:
 
@@ -111,7 +111,7 @@ Here's a link to [a website]()(http://foo.bar), to a [local
 Tables can look like this:
 
 size  material      color
-----  ------------  ------------
+----
 9     leather       brown
 10    hemp canvas   natural
 11    glass         transparent
@@ -121,9 +121,9 @@ Table: Shoes, their sizes, and what they're made of
 (The above is the caption for the table.) Pandoc also supports
 multi-line tables:
 
----- ----  -----------------------
+----
 keyword   text
----- ----  -----------------------
+----
 red       Sunsets, apples, and
   other red or reddish
   things.
@@ -131,11 +131,11 @@ red       Sunsets, apples, and
 green     Leaves, grass, frogs
   and other things it's
   not easy being.
----- ----  -----------------------
+----
 
 A horizontal rule follows.
 
-*** 
+\*\*\* 
 Here's a definition list:
 
 apples
@@ -165,4 +165,6 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+
+
 
