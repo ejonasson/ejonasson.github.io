@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  D&D DM Mistakes - The Doorway Fight
-date:   2017-06-07 07:00:00 -0400
+title: DM Mistakes - The Doorway Fight
+date: 2017-06-07 07:00:00 -0400
 categories: dnd dm-mistakes
 ---
 
-_I've recently picked up Dungeon Mastering for a D&D Group recently, and wanted to share some of the things I've learned during this experience. I'm going to attempt to do an article after each session that explains something I think didn't go well, and how I (or any other DM) could potentially avoid this issue in the future._
+_I've recently started Dungeon Mastering for a D&D Group for the first time since college, and wanted to share some of the things I've learned during this experience. I'm going to attempt to do an article after each session that explains something I think didn't go well, and how I (or any other DM) could potentially avoid this issue in the future._
 
 _The game referenced below is a game of 4th Edition D&D, but many of the concepts could apply to other games as well._
 
