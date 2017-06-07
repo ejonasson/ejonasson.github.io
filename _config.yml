@@ -9,9 +9,8 @@
 title: Erik Jonasson's Blog
 email: ejonasson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Erik is a PHP developer and support specialist.
+  Erik is a web developer, gamer, public policy wonk, and many other things.
   This blog serves as a repository of any thoughts I may have that are too long for tweets.
-  Coherency is not promised.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://erikjonasson.me" # the base hostname & protocol for your site
 twitter_username: ehjonasson
