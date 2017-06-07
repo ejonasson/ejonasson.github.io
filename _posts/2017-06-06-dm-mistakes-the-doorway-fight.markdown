@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  D&D DM Mistakes: The Doorway Fight
+title:  D&D DM Mistakes - The Doorway Fight
 date:   2017-06-07 07:00:00 -0400
 categories: dnd dm-mistakes
 ---
