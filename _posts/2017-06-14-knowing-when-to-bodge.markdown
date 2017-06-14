@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Knowing When to Bodge and when to do things the "Right Way"
-date:   2016-06-14 00:00:00 -0400
+date:   2017-06-14 00:00:00 -0400
 categories: programming
 ---
 
