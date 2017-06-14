@@ -1,0 +1,8 @@
+.post-list {}
+
+  .post-list__single {
+    box-shadow: $subtle-box-shadow;
+    border-radius: 5px;
+    border-top: 5px solid $brand-color;
+    padding: 1rem;
+  }

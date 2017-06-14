@@ -28,7 +28,7 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+$subtle-box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -49,5 +49,7 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        'post-list',
+        'post'
 ;
