@@ -4,5 +4,9 @@
     box-shadow: $subtle-box-shadow;
     border-radius: 5px;
     border-top: 5px solid $brand-color;
-    padding: 1rem;
+    padding: $spacing-unit ($spacing-unit * 1.2);
+
+    h2 {
+        margin-bottom: 5px;
+    }
   }
